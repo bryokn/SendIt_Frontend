@@ -6,7 +6,7 @@
 - [Usage](##Usage)
 - [Features](##Features)
 - [Contributing](##Contributing)
-<!-- - [Authors](##Authors) -->
+- [Author](##Author)
 - [License](#License)
 
 ## Introduction
@@ -80,14 +80,9 @@ All commits must be descriptive, reviewed by two members and the project lead, a
 ### Frontend link
 - [Frontend Git](https://github.com/bryokn/SendIt_Frontend)
 
-## Authors :black_nib:
+## Author :black_nib:
 
-<!-- - **Naomi Lagat**<[Naomi-Jerutoe](https://github.com/Naomie-Jerutoe)>
-- **Levis Ngigi**<[LevisNgigi](https://github.com/LevisNgigi)>
-- **Brian Mariga**<[Brian-Mariga](https://github.com/Brian-Mariga)> -->
-- **Brian Kipkirui**<[brykon](https://github.com/bryokn)>
-<!-- - **Emmanuel Kimwaki** <[ewkimwaki](https://github.com/ewkimwaki)>
-- **Denis Rotich** <[Dennis-Rotich](https://github.com/Dennis-Rotich)> -->
+- **Kipkirui Brian**<[brykon](https://github.com/bryokn)>
 
 # License
 
