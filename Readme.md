@@ -6,7 +6,7 @@
 - [Usage](##Usage)
 - [Features](##Features)
 - [Contributing](##Contributing)
-- [Authors](##Authors)
+<!-- - [Authors](##Authors) -->
 - [License](#License)
 
 ## Introduction
@@ -29,7 +29,7 @@ SendIT is a courier service that helps users deliver parcels to different destin
 
 1. Clone the repository:
 ```bash
- git clone https://github.com/Naomie-Jerutoe/SendIt_Frontend
+ git clone https://github.com/bryokn/SendIt_Frontend
 ```
 
 2. Change into the project directory.
@@ -75,19 +75,19 @@ All commits must be descriptive, reviewed by two members and the project lead, a
 
 ### Backend API
 - [Backend API](https://sendit-backend-qhth.onrender.com)
-- [Backend Git](https://github.com/Naomie-Jerutoe/SendIt_Backend)
+- [Backend Git](https://github.com/bryokn/SendIt_Backend)
 
 ### Frontend link
-- [Frontend Git](https://github.com/Naomie-Jerutoe/SendIt_Frontend)
+- [Frontend Git](https://github.com/bryokn/SendIt_Frontend)
 
 ## Authors :black_nib:
 
-- **Naomi Lagat**<[Naomi-Jerutoe](https://github.com/Naomie-Jerutoe)>
+<!-- - **Naomi Lagat**<[Naomi-Jerutoe](https://github.com/Naomie-Jerutoe)>
 - **Levis Ngigi**<[LevisNgigi](https://github.com/LevisNgigi)>
-- **Brian Mariga**<[Brian-Mariga](https://github.com/Brian-Mariga)>
-- **Brian Kipkirui**<[bryon](https://github.com/bryokn)>
-- **Emmanuel Kimwaki** <[ewkimwaki](https://github.com/ewkimwaki)>
-- **Denis Rotich** <[Dennis-Rotich](https://github.com/Dennis-Rotich)>
+- **Brian Mariga**<[Brian-Mariga](https://github.com/Brian-Mariga)> -->
+- **Brian Kipkirui**<[brykon](https://github.com/bryokn)>
+<!-- - **Emmanuel Kimwaki** <[ewkimwaki](https://github.com/ewkimwaki)>
+- **Denis Rotich** <[Dennis-Rotich](https://github.com/Dennis-Rotich)> -->
 
 # License
 
